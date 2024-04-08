@@ -1,0 +1,91 @@
+body{
+    margin:0;
+}
+header{
+    display:flex;
+    justify-content: space-around;
+    background-color: #00b894;
+    color:white;
+    padding-bottom:30px ;
+    margin-bottom:100px
+}
+.lien a{
+    margin-left: 20px;
+    text-decoration: none;
+    color:white;
+    font-size: 1.2rem;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.lien{
+    margin-top: 65px;
+}
+.container{
+    display:flex;
+    justify-content: space-around;
+    margin-bottom: 100px;
+}
+.journal{
+    height: auto;
+    width: 600px;
+}
+.divers{
+    height: auto;
+    width: 600px;
+}
+.actualité{
+    display:flex;
+    justify-content: space-evenly;
+}
+.actualité p{
+    line-height: 2;
+}
+.patte{
+  width: auto;
+  height: 400px;
+}
+.plage{
+    width: auto;
+    height: 300px;
+  }
+.demarche{
+    border-style: solid;
+    border-width: thin;
+    padding: 30px;
+    color: white;
+    background-color: #00b894;
+}
+.conteneur1{
+    display:flex;
+    justify-content: space-around;
+    background-color: #00b894;
+    color:white;
+    padding:15px;
+    margin-top:15px;
+    margin-bottom:45px
+}
+.conteneur2{
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 75px;
+}
+.conteneur2 p {
+ width:450px ;
+ line-height: 2;
+}
+.commune{
+    font-size: 2rem;
+}
+h4{
+    font-size: 1.5rem;
+}
+footer{
+    display:flex;
+    justify-content: space-around;
+    background-color: #00b894;
+    color: white;
+    padding:20px
+}
+
